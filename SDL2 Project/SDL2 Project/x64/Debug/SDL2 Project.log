@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\dl471\OneDrive - University of Brighton\DL471_Modules\Year 2\CI517 Game Engine Fundamentals\Semester 2\SDL2 Project\Project\SDL2 Project\SDL2 Project\main.cpp(61,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\dl471\OneDrive - University of Brighton\DL471_Modules\Year 2\CI517 Game Engine Fundamentals\Semester 2\SDL2 Project\Project\SDL2 Project\SDL2 Project\main.cpp(61,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  SDL2 Project.vcxproj -> C:\Users\dl471\OneDrive - University of Brighton\DL471_Modules\Year 2\CI517 Game Engine Fundamentals\Semester 2\SDL2 Project\Project\SDL2 Project\x64\Debug\SDL2 Project.exe
